@@ -243,13 +243,14 @@ const expCards = [
     review: "Rahaf was an invaluable asset as an HR Assistant at Tartous Center. Her support in core HR operations, including recruitment and employee management, was crucial. She demonstrated meticulous attention to detail in maintaining employee records and actively contributed to our training and development initiatives. Rahaf's ability to coordinate internal events and manage staff communication channels made her a highly effective and reliable team member.",
     imgPath: "/images/exp3.png",
     logoPath: "/images/tc.png",
-    title: "HR Assistant (Part-time) ",
+    title: "Python Instructor & Operations Coordinator",
     comp: "🏢 Tartous Center – Tartous, Syria ",
     date: "March 2018 - February 2022",
     responsibilities: [
-      "Assisted in core HR operations, including recruitment processes and comprehensive employee management.",
-      "Maintained meticulous employee records and actively supported training and development initiatives.",
-      "Coordinated internal company events and managed effective staff communication channels.",
+      "Designed and delivered fundamental Python training courses for beginners at the center.",
+      "Provided technical guidance and support to trainees to help them understand programming basics and apply them in practical projects.",
+      "Automated administrative tasks by digitizing employee and student records, converting them from paper-based files to organized databases using MS Excel.",
+      "Developed an electronic application form for instructor candidates, which streamlined the hiring process and improved data collection efficiency.",
     
     ],
   },
