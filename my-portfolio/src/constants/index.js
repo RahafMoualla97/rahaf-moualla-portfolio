@@ -240,7 +240,7 @@ const expCards = [
     ],
   },
   {
-    review: "Rahaf was an invaluable asset as an HR Assistant at Tartous Center. Her support in core HR operations, including recruitment and employee management, was crucial. She demonstrated meticulous attention to detail in maintaining employee records and actively contributed to our training and development initiatives. Rahaf's ability to coordinate internal events and manage staff communication channels made her a highly effective and reliable team member.",
+    review: "Rahaf was an invaluable asset as a Python Instructor & Operations Coordinator at Tartous Center. She excelled in designing and delivering practical Python courses for beginners, and her support in digitizing administrative operations was crucial. Rahaf demonstrated meticulous attention to detail in converting paper records into organized databases and she spearheaded the development of an electronic application form for instructors, which significantly streamlined our recruitment process. Her ability to manage both technical instruction and operational improvements made her a highly effective and reliable team member.",
     imgPath: "/images/exp3.png",
     logoPath: "/images/tc.png",
     title: "Python Instructor & Operations Coordinator",
